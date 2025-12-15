@@ -11,8 +11,10 @@ Ambas prácticas forman parte del curso de PHP y fueron desarrolladas para compr
 # 📁 Estructura del repositorio
 
 Practicas de API/ 
-│ 
+│
+
 ├── api-laravel/ # Proyecto Backend - API RESTful en Laravel 
+
 └── apiCliente-Laravel/ # Proyecto Frontend - Cliente que consume la API
 
 ---
